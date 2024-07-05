@@ -29,7 +29,7 @@ OPTIONS:
    --help, -h     show help
 ```
 
-- [x] `kubectl thunder secrets find by-certificate-san` - Find secrets that are not used by any ingresses.
+- [x] `kubectl thunder secrets find by-certificate-san` - Find secrets containing a specific Subject Alternative Name.
 
 ```
 OPTIONS:
