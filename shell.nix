@@ -6,6 +6,8 @@ pkgs.mkShell {
   env.LC_ALL = "C.UTF-8";
 
   packages = [
+    pkgs.go
+    pkgs.delve
     pkgs.git
     pkgs.kubectl
     pkgs.nixfmt
