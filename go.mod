@@ -2,7 +2,7 @@ module github.com/nerzhul/kubectl-thunder
 
 go 1.22.0
 
-toolchain go1.23.1
+toolchain go1.23.2
 
 require (
 	github.com/urfave/cli/v2 v2.27.4
