@@ -6,6 +6,7 @@ toolchain go1.25.2
 
 require (
 	github.com/urfave/cli/v2 v2.27.7
+	github.com/urfave/cli/v3 v3.11.0
 	k8s.io/api v0.34.1
 	k8s.io/apimachinery v0.34.1
 	k8s.io/client-go v0.34.1
